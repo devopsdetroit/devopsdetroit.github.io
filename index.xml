@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOps Detroit</title>
-    <link>http://example.org/</link>
+    <link>https://devopsdetroit.github.io/</link>
     <description>Recent content on DevOps Detroit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devopsdetroit.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>http://example.org/blog/creating-a-new-theme/</link>
+      <link>https://devopsdetroit.github.io/blog/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/blog/creating-a-new-theme/</guid>
+      <guid>https://devopsdetroit.github.io/blog/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>About Us</title>
-      <link>http://example.org/about/</link>
+      <link>https://devopsdetroit.github.io/about/</link>
       <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://devopsdetroit.github.io/about/</guid>
       <description>As we grow, we are constantly looking for new opportunities to grow and improve our community.
 DevOpsDays 2019 While we are still a young organization, our flagship event is our local DevOpsDays event. Presentations will have a broad range of topics, with something for everyone. This conference is about much more than the tools we use. It is a forum for exploring the cultural impact that DevOps has on an organization.</description>
     </item>
